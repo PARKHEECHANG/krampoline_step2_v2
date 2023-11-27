@@ -15,6 +15,3 @@ spec:
         - name: frontend
           # 여러분의 image 주소를 입력해주세요.
           image: krmp-d2hub-idock.9rum.cc/dev-test/repo_eb11d5429c34
-		  env: 
-		  - name: REACT_APP_KAKAO_KEY
-		  value: "6936be4bbc1271771861da0239ec6db5"
