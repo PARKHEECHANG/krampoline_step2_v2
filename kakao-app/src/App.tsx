@@ -4,7 +4,7 @@ import KarloVariations from "./components/KarloVariations";
 function App() {
   return (
     <div className="App">
-      <div>KAKAO KEY : {process.env.REACT_APP_KAKAO_KEY}</div>
+      <div>KAKAO KEY : {process.env.REACT_APP_KAKAO_JAVASCRIPT_KEY}</div>
       <KakaoMap />
       <hr />
 
